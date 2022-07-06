@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Erdi Doğan
 - 👀 I’m interested in power system optimization, Python programming language and artificial intelligence optimization algorithms.
-- 🌱 I’m currently learning PyQt5
+- 🌱 I’m currently learning JavaScript with patika.dev
 - 💞️ I’m looking to collaborate on creating creative user friendly gui
 - 📫 You can reach me with edoganenerji@gmail.com
 
